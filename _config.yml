@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nam Ly's Site"
+title                    : "Nam Ly - Site"
 title_separator          : "-"
 name                     : &name "Nam Tuan Ly"
 description              : &description "Home Page"
