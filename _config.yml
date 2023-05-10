@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nam Ly - Site"
+title                    : "Nam Tuan Ly"
 title_separator          : "-"
 name                     : &name "Nam Tuan Ly"
 description              : &description "Home Page"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nam Tuan Ly"
   avatar           : "profile.png"
-  bio              : "Pattern Recognition & Machine Learning"
+  bio              : "Assistant Professor at Tokyo University of Agriculture and Technology"
   location         : "Tokyo, Japan"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
