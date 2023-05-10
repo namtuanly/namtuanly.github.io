@@ -13,8 +13,11 @@ I am an assistant professor at [Tokyo University of Agriculture and Technology](
 
 Research Interests: Deep Learning, Computer Vision, Pattern Recognition, Document Analysis.
 
-# My primary field is health economics, with additional research in industrial organization and applied econometrics. My research focuses on the role of information and behavioral biases in (a) the take-up of high-value care by consumers and (b) the adoption of innovative health technologies by providers. My job market paper, “An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information” shows that individuals infer information about their health risks by observing family health events, but that overreactions in these inferences lead to welfare penalties and propagate the use of low-return health services.
+<!-- 
+My primary field is health economics, with additional research in industrial organization and applied econometrics. My research focuses on the role of information and behavioral biases in (a) the take-up of high-value care by consumers and (b) the adoption of innovative health technologies by providers. My job market paper, “An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information” shows that individuals infer information about their health risks by observing family health events, but that overreactions in these inferences lead to welfare penalties and propagate the use of low-return health services.
 
-# My other ongoing and published projects span related questions ranging from the costs associated with preventive care utilization to the use of care for specific at-risk populations, including those living with mental illness and providers treating cardiovascular disease. 
+My other ongoing and published projects span related questions ranging from the costs associated with preventive care utilization to the use of care for specific at-risk populations, including those living with mental illness and providers treating cardiovascular disease. 
+-->
+ 
 
 Details about my publications, working papers, and teaching experience are available on this site.
