@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Hanoi University of Science and Technology, 2013
+* M.S. in Computer Science, Tokyo University of Agriculture and Technology, 2018
+* Ph.D in Computer Science, Tokyo University of Agriculture and Technology, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2023 - Now: Assistant Professor
+  * Tokyo University of Agriculture and Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2021 - March 2023: Postdoctoral Researcher
+  * National Institute of Informatics (Japan)
   
 Skills
 ======
