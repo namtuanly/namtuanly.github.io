@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Bibliography
-I am an assistant professor of Computer Science at [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/) (Japan), broadly working in the area of Document Analysis and Recognition. I just completed my postdoc stinct at [National Institute of Informatics](https://www.nii.ac.jp/en/) (Japan). I obtained my P.h.D from the Department of Computer and Information Sciences, Tokyo University of Agriculture and Technology, in Sep. 2022, advised by [Prof. Masaki Nakagawa](http://web.tuat.ac.jp/~nakagawa/en/nakagawa.html). I was fortunate to intern at [Centre for Pattern Recognition and Machine Intelligence](https://www.concordia.ca/research/cenparmi.html), Concordia University (Canada). Details about my publications, working papers, and teaching experience are available on this site.
+I am an assistant professor of Computer Science at [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/) (Japan), broadly working in the area of Document Analysis and Recognition. I just completed my postdoc stinct at [National Institute of Informatics](https://www.nii.ac.jp/en/) (Japan). I obtained my P.h.D from the Department of Computer and Information Sciences, Tokyo University of Agriculture and Technology, in Sep. 2021, advised by [Prof. Masaki Nakagawa](http://web.tuat.ac.jp/~nakagawa/en/nakagawa.html). I was fortunate to intern at [Centre for Pattern Recognition and Machine Intelligence](https://www.concordia.ca/research/cenparmi.html), Concordia University (Canada). Details about my publications, working papers, and teaching experience are available on this site.
 
 ## Research Interests 
 Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition.
@@ -22,4 +22,4 @@ My other ongoing and published projects span related questions ranging from the 
 
 ## Selected Publications
 
-[You can download my CV here](http://namtuanly.github.io/files/NamLy_CV.pdf)
+[You can download my full CV here](http://namtuanly.github.io/files/NamLy_CV.pdf)
