@@ -28,6 +28,8 @@ My other ongoing and published projects span related questions ranging from the 
 5. **Nam-Tuan Ly**, Hung-Tuan Nguyen, Masaki Nakagawa, "2D Self-attention Convolutional Recurrent Network for Offline Handwritten Text Recognition", Proceedings of the 16th IAPR International Conference on Document Analysis and Recognition (ICDAR2021).
 6. **Nam-Tuan Ly**, Atsuhiro Takasu, "An End-to-End Local Attention Based Model for Table Recognition", To appear in Proceedings of the 17th IAPR International Conference on Document Analysis and Recognition (ICDAR2023).
 
+My full publications can be found on [my Google Scholar](https://scholar.google.com/citations?user=4n6BDKIAAAAJ&hl=en).
+
 ## Academic Services
 + Program Committee Member:
   - The 17th International Conference on Document Analysis and Recognition (ICDAR2023)
