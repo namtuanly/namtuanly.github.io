@@ -21,12 +21,12 @@ My other ongoing and published projects span related questions ranging from the 
 -->
 
 ## Selected Publications
-1. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Kha-Cong Nguyen, Masaki Nakagawa, "Deep Convolutional Recurrent Network for Segmentation-Free Offline Handwritten Japanese Text Recognition", Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR2017).
-2. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Kha-Cong Nguyen, Masaki Nakagawa, "Recognition of Anomalously Deformed Kana Sequences in Japanese Historical Documents", IEICE TRANSACTIONS on Information and Systems, August 2019, Vol.E102-D, No.8, pp.1554-1564.
-3. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Masaki Nakagawa, "An Attention-Based End-to-End Model for Multiple Text Lines Recognition in Japanese Historical Documents", Proceedings of the 15th IAPR International Conference on Document Analysis and Recognition (ICDAR2019).
-4. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Masaki Nakagawa, "An attention-based row-column encoder-decoder model for text recognition in Japanese historical documents", Pattern Recognition Letters, August 2020, Volume 136, Pages 134-141.
-5. **Nam-Tuan Ly**, Hung-Tuan Nguyen, Masaki Nakagawa, "2D Self-attention Convolutional Recurrent Network for Offline Handwritten Text Recognition", Proceedings of the 16th IAPR International Conference on Document Analysis and Recognition (ICDAR2021).
-6. **Nam-Tuan Ly**, Atsuhiro Takasu, "An End-to-End Local Attention Based Model for Table Recognition", To appear in Proceedings of the 17th IAPR International Conference on Document Analysis and Recognition (ICDAR2023).
+1. **Nam-Tuan Ly**, Atsuhiro Takasu, "An End-to-End Local Attention Based Model for Table Recognition", To appear in Proceedings of the 17th IAPR International Conference on Document Analysis and Recognition (ICDAR2023).
+2. **Nam-Tuan Ly**, Hung-Tuan Nguyen, Masaki Nakagawa, "2D Self-attention Convolutional Recurrent Network for Offline Handwritten Text Recognition", Proceedings of the 16th IAPR International Conference on Document Analysis and Recognition (ICDAR2021).
+3. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Masaki Nakagawa, "An attention-based row-column encoder-decoder model for text recognition in Japanese historical documents", Pattern Recognition Letters, Volume 136, Pages 134-141, August 2020.
+4. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Masaki Nakagawa, "An Attention-Based End-to-End Model for Multiple Text Lines Recognition in Japanese Historical Documents", Proceedings of the 15th IAPR International Conference on Document Analysis and Recognition (ICDAR2019).
+5. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Kha-Cong Nguyen, Masaki Nakagawa, "Recognition of Anomalously Deformed Kana Sequences in Japanese Historical Documents", IEICE TRANSACTIONS on Information and Systems, Vol.E102-D, No.8, pp.1554-1564, August 2019.
+6. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Kha-Cong Nguyen, Masaki Nakagawa, "Deep Convolutional Recurrent Network for Segmentation-Free Offline Handwritten Japanese Text Recognition", Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR2017).
 
 My full publications can be found on [my Google Scholar](https://scholar.google.com/citations?user=4n6BDKIAAAAJ&hl=en).
 
