@@ -12,7 +12,7 @@ redirect_from:
 I'm currently an assistant professor of Computer Science at [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/) (Japan). Previously, I was a postdoc at [National Institute of Informatics](https://www.nii.ac.jp/en/) (Japan) and a visiting scholar at [Centre for Pattern Recognition and Machine Intelligence](https://www.concordia.ca/research/cenparmi.html), Concordia University (Canada). I obtained my P.h.D from the Department of Computer and Information Sciences, Tokyo University of Agriculture and Technology, in Sep. 2021, under supervision of Prof. Masaki Nakagawa. My research mainly focuses on the area of Document and Pattern Recognition, including: Document Layout Analysis, Table Recognition, Mathematical Expression Recognition and Text Recognition.
 
 ## Research Interests 
-Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition.
+Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition, Mathematical Expression Recognition.
 
 ## Education
 * Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct'18 ~ Sep'21<br>
