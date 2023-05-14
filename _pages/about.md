@@ -15,28 +15,22 @@ I am an assistant professor of Computer Science at [Tokyo University of Agricult
 Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition.
 
 ## Education & Research
-* Assistant Professor, 04/2023~Now<br>
-Tokyo University of Agriculture and Technology, Japan<br>
-Subject: Document Analysis by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
+* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr'23~Now<br>
+Subject: Document Analysis by Deep Neural Networks
 
-* Postdoctoral Researcher, 11/2021~03/2023<br>
-National Institute of Informatics, Japan<br>
-Subject: Table Analysis by Deep Neural Networks, Advisor: Atsuhiro Takasu, Prof. Ph.D.
+* Postdoctoral Researcher, National Institute of Informatics, Japan, Now'21~Mar'23<br>
+Subject: Table Analysis by Deep Neural Networks
 
-* Ph.D. Candidate, Computer Science, 10/2018~09/2021<br>
-Tokyo University of Agriculture and Technology, Japan<br>
+* Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct'18~Sep'21<br>
 Subject: Handwritten Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
 
-* Visiting Researcher, 10/2019 ~ 12/2019<br>
-Centre for Pattern Recognition and Machine Intelligence, Concordia University, Canada<br>
+* Visiting Researcher, Concordia University, Canada, Oct'19 ~ Nov'19<br>
 Subject: Hand-Drawn Object Detection for Scoring Wartegg Zeichen Test, Advisor: Ching Y. Suen, Prof. Ph.D.‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
 
-* M.A., Computer Science, 10/2016~09/2018<br>
-Tokyo University of Agriculture and Technology, Japan<br>
+* M.A., Tokyo University of Agriculture and Technology, Japan, Oct'16~Sep'18<br>
 Subject: Offline Handwritten Japanese Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
 
-* B.A., Computer Science, 2013<br>
-Hanoi University of Science and Technology, Vietnam
+* B.A., Hanoi University of Science and Technology, Vietnam, Aug'13<br>
 Advisor: Nguyen Kim Khanh, Ph.D.
 
 ## Selected Publications
