@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar</a> or <a href="{{site.author.researchmap}}">my ResearchMap</a>.
+You can also find my publications on [my Google Scholar]({{site.author.googlescholar}}) or [my ResearchMap]({{site.author.researchmap}}).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
