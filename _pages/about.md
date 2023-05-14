@@ -14,24 +14,19 @@ I am an assistant professor of Computer Science at [Tokyo University of Agricult
 ## Research Interests 
 Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition.
 
-## Education & Research
-* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr'23~Now<br>
-Subject: Document Analysis by Deep Neural Networks
+## Education
+* Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct'18 ~ Sep'21<br>
 
-* Postdoctoral Researcher, National Institute of Informatics, Japan, Now'21~Mar'23<br>
-Subject: Table Analysis by Deep Neural Networks
+* M.Sc, Tokyo University of Agriculture and Technology, Japan, Oct'16 ~ Sep'18<br>
 
-* Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct'18~Sep'21<br>
-Subject: Handwritten Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
+* BSc, Hanoi University of Science and Technology, Vietnam, Aug'13<br>
+
+## Experience
+* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr'23 ~ Present<br>
+
+* Postdoctoral Researcher, National Institute of Informatics, Japan, Now'21 ~ Mar'23<br>
 
 * Visiting Researcher, Concordia University, Canada, Oct'19 ~ Nov'19<br>
-Subject: Hand-Drawn Object Detection for Scoring Wartegg Zeichen Test, Advisor: Ching Y. Suen, Prof. Ph.D.‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
-
-* M.A., Tokyo University of Agriculture and Technology, Japan, Oct'16~Sep'18<br>
-Subject: Offline Handwritten Japanese Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
-
-* B.A., Hanoi University of Science and Technology, Vietnam, Aug'13<br>
-Advisor: Nguyen Kim Khanh, Ph.D.
 
 ## Selected Publications
 1. **Nam-Tuan Ly**, Atsuhiro Takasu, "An End-to-End Local Attention Based Model for Table Recognition", To appear in Proceedings of the 17th IAPR International Conference on Document Analysis and Recognition (ICDAR2023).
