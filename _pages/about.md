@@ -28,7 +28,7 @@ My other ongoing and published projects span related questions ranging from the 
 5. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Kha-Cong Nguyen, Masaki Nakagawa, "Recognition of Anomalously Deformed Kana Sequences in Japanese Historical Documents", IEICE TRANSACTIONS on Information and Systems, Vol.E102-D, No.8, pp.1554-1564, August 2019.
 6. **Nam-Tuan Ly**, Cuong-Tuan Nguyen, Kha-Cong Nguyen, Masaki Nakagawa, "Deep Convolutional Recurrent Network for Segmentation-Free Offline Handwritten Japanese Text Recognition", Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR2017).
 
-My full publications can be found on [my Google Scholar](https://scholar.google.com/citations?user=4n6BDKIAAAAJ&hl=en).
+My full publications can be found at the [publications page](http://namtuanly.github.io/publications/) or [my Google Scholar]({{site.author.googlescholar}}).
 
 ## Academic Services
 + Program Committee Member:
@@ -47,4 +47,4 @@ My full publications can be found on [my Google Scholar](https://scholar.google.
   - The International Conference on Frontiers of Handwriting Recognition
   - The International Workshop on Historical Document Imaging and Processing
 
-[You can download my full CV here](http://namtuanly.github.io/files/NamLy_CV.pdf)
+My completed resume can be found at the [CV page](http://namtuanly.github.io/cv/).
