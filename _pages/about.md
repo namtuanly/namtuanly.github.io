@@ -15,22 +15,28 @@ I am an assistant professor of Computer Science at [Tokyo University of Agricult
 Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition.
 
 ## Education & Research
-* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, 04/2023~Now<br>
+* Assistant Professor, 04/2023~Now<br>
+Tokyo University of Agriculture and Technology, Japan<br>
 Subject: Document Analysis by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
 
-* Postdoctoral Researcher, National Institute of Informatics, Japan, 11/2021~03/2023<br>
+* Postdoctoral Researcher, 11/2021~03/2023<br>
+National Institute of Informatics, Japan<br>
 Subject: Table Analysis by Deep Neural Networks, Advisor: Atsuhiro Takasu, Prof. Ph.D.
 
-* Ph.D. Candidate, Computer Science, Tokyo University of Agriculture and Technology, Japan, 10/2018~09/2021<br>
+* Ph.D. Candidate, Computer Science, 10/2018~09/2021<br>
+Tokyo University of Agriculture and Technology, Japan<br>
 Subject: Handwritten Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
 
-* Visiting Researcher, Centre for Pattern Recognition and Machine Intelligence, Concordia University, Canada, 10/2019 ~ 12/2019<br>
+* Visiting Researcher, 10/2019 ~ 12/2019<br>
+Centre for Pattern Recognition and Machine Intelligence, Concordia University, Canada<br>
 Subject: Hand-Drawn Object Detection for Scoring Wartegg Zeichen Test, Advisor: Ching Y. Suen, Prof. Ph.D.‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
 
-* M.A., Computer Science, Tokyo University of Agriculture and Technology, Japan, 10/2016~09/2018<br>
+* M.A., Computer Science, 10/2016~09/2018<br>
+Tokyo University of Agriculture and Technology, Japan<br>
 Subject: Offline Handwritten Japanese Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
 
-* B.A., Computer Science, Hanoi University of Science and Technology, Vietnam, 2013<br>
+* B.A., Computer Science, 2013<br>
+Hanoi University of Science and Technology, Vietnam
 Advisor: Nguyen Kim Khanh, Ph.D.
 
 ## Selected Publications
