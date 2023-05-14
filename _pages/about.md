@@ -14,11 +14,24 @@ I am an assistant professor of Computer Science at [Tokyo University of Agricult
 ## Research Interests 
 Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition.
 
-<!-- 
-My primary field is health economics, with additional research in industrial organization and applied econometrics. My research focuses on the role of information and behavioral biases in (a) the take-up of high-value care by consumers and (b) the adoption of innovative health technologies by providers. My job market paper, “An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information” shows that individuals infer information about their health risks by observing family health events, but that overreactions in these inferences lead to welfare penalties and propagate the use of low-return health services.
+## Education & Research
+* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, 04/2023~Now<br>
+Subject: Document Analysis by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
 
-My other ongoing and published projects span related questions ranging from the costs associated with preventive care utilization to the use of care for specific at-risk populations, including those living with mental illness and providers treating cardiovascular disease. 
--->
+* Postdoctoral Researcher, National Institute of Informatics, Japan, 11/2021~03/2023<br>
+Subject: Table Analysis by Deep Neural Networks, Advisor: Atsuhiro Takasu, Prof. Ph.D.
+
+* Ph.D. Candidate, Computer Science, Tokyo University of Agriculture and Technology, Japan, 10/2018~09/2021<br>
+Subject: Handwritten Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
+
+* Visiting Researcher, Centre for Pattern Recognition and Machine Intelligence, Concordia University, Canada, 10/2019 ~ 12/2019<br>
+Subject: Hand-Drawn Object Detection for Scoring Wartegg Zeichen Test, Advisor: Ching Y. Suen, Prof. Ph.D.‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+* M.A., Computer Science, Tokyo University of Agriculture and Technology, Japan, 10/2016~09/2018<br>
+Subject: Offline Handwritten Japanese Text Recognition by Deep Neural Networks, Advisor: Masaki Nakagawa, Prof. Ph.D.
+
+* B.A., Computer Science, Hanoi University of Science and Technology, Vietnam, 2013<br>
+Advisor: Nguyen Kim Khanh, Ph.D.
 
 ## Selected Publications
 1. **Nam-Tuan Ly**, Atsuhiro Takasu, "An End-to-End Local Attention Based Model for Table Recognition", To appear in Proceedings of the 17th IAPR International Conference on Document Analysis and Recognition (ICDAR2023).
