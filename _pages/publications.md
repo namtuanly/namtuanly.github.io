@@ -9,8 +9,7 @@ author_profile: true
 
 You can also find my publications on [my Google Scholar]({{site.author.googlescholar}}) or [my ResearchMap]({{site.author.researchmap}}).
 
-<--!
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
+<--! {% for post in site.publications reversed %} -->
+<--!   {% include archive-single.html %} -->
+<--! {% endfor %} -->
+
