@@ -29,10 +29,11 @@ You can also find my publications on [my Google Scholar]({{site.author.googlesch
 13. Hung Tuan Nguyen, **Nam Tuan Ly**, Kha Cong Nguyen, Cuong Tuan Nguyen and Masaki Nakagawa, “Attempts to recognize anomalously deformed Kana in Japanese historical documents,” In Proceedings of the 4th International Workshop on Historical Document Imaging and Processing - HIP2017, Kyoto, Japan, 2017 [Link](https://dl.acm.org/doi/abs/10.1145/3151509.3151514).
 14. **Nam Tuan Ly**, Cuong-Tuan Nguyen, Kha-Cong Nguyen, Masaki Nakagawa, "Deep Convolutional Recurrent Network for Segmentation-Free Offline Handwritten Japanese Text Recognition," In Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition - ICDAR2017, Kyoto, Japan, 2017 [Link](https://ieeexplore.ieee.org/abstract/document/8270308).
 
-## Technical Report
-1. 耒代誠仁, **Nam Tuan Ly**, Kha Cong Nguyen, 中川正樹, 山本和明, “階層化された情報システムのためのくずし字解読機能の試作,” 日本情報考古学会第42回大会, 岡山大学津島キャンパス, 2019.
-2. 佐藤旭, 小林心, **Nam Tuan Ly**, Cuong Tuan Nguyen, 北本朝展, 中川正樹, "日本古典籍くずし字文書の文字列認識," 第119回人文科学とコンピュータ研究会発表会, 大阪市, 02/2019.
+## Technical Reports (Japanese)
+1. Hung Tuan Nguyen, **Nam Tuan Ly**, Kha Cong Nguyen, Cuong Tuan Nguyen, 中川 正樹, "研究成果の活用と関連研究 変体仮名の認識," 木簡など出土文字資料の資源化のための機能的情報集約と知の結集, 独立行政法人国立文化財機構奈良文化財研究所, 2019 [Link](http://doi.org/10.24484/sitereports.65339-12422).
+2. 耒代誠仁, **Nam Tuan Ly**, Kha Cong Nguyen, 中川正樹, 山本和明, “階層化された情報システムのためのくずし字解読機能の試作,” 日本情報考古学会第42回大会, 岡山大学津島キャンパス, 2019 [Link](https://cir.nii.ac.jp/crid/1520853834083448832).
+3. 佐藤旭, 小林心, **Nam Tuan Ly**, Cuong Tuan Nguyen, 北本朝展, 中川正樹, "日本古典籍くずし字文書の文字列認識," 第119回人文科学とコンピュータ研究会発表会, 大阪市, 02/2019 [Link](http://id.nii.ac.jp/1001/00194203/).
 
 ## Preprints
-1. **Nam Tuan Ly**, Phuc Nguyen, Hideaki Takeda, and Atsuhiro Takasu, “TabIQA: Table Questions Answering on Business Document Images,” arXiv:2303.14935 [cs.CV], 2023.
+1. **Nam Tuan Ly**, Phuc Nguyen, Hideaki Takeda, and Atsuhiro Takasu, “TabIQA: Table Questions Answering on Business Document Images,” arXiv:2303.14935 [cs.CV], 2023 [Link](https://arxiv.org/abs/2303.14935).
 
