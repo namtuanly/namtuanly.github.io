@@ -40,12 +40,12 @@ My full publications can be found at the [publications page](http://namtuanly.gi
 
 ## Awards and Honors
 ### Awards
-* ICDAR2023 Competition on Visual Question Answering on Business Document Images, Runner-up, 2023.
-*	The 16th International Conference on Frontiers in Handwriting Recognition, Aug 2018, Nominees for best student paper award.
-*	Tokyo University of Agriculture and Technology, President's Award for Students, Apr 2018.
-*	The Special Interest Group of Computers and the Humanities (Information Processing Society of Japan), “Recognizing anomalously deformed Kana by Deep Convolutional Recurrent Network”, PRMU CH Award, 2018.
-*	The Special Interest Group of Pattern Recognition and Media Understanding (The Institute of Electronics, Information and Communication Engineers, Japan), The 21st PRMU Algorithm Contest, Best Algorithm Award, 2017.
-*	The 4th International Workshop on Historical Document Imaging and Processing (HIP2017), The IAPR Best Paper Award, 2017.
+* Runner-up, ICDAR2023 Competition on Visual Question Answering on Business Document Images - VQAonBD2023, 2023.
+*	Nominees for best student paper award, The 16th International Conference on Frontiers in Handwriting Recognition, Aug. 2018.
+*	President's Award for Students, Tokyo University of Agriculture and Technology, Apr. 2018.
+*	PRMU CH Award, The Special Interest Group of Computers and the Humanities (Information Processing Society of Japan), “Recognizing anomalously deformed Kana by Deep Convolutional Recurrent Network”, Feb. 2018.
+*	Best Algorithm Award, The 21st PRMU Algorithm Contest, The Special Interest Group of Pattern Recognition and Media Understanding (IEICE Japan), Dec. 2017.
+*	The IAPR Best Paper Award, The 4th International Workshop on Historical Document Imaging and Processing (HIP2017), 2017.
 
 ### Scholarship
 * JIRITSU, Apr 2016 ~ Mar 2017.
