@@ -39,17 +39,19 @@ Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document 
 My full publications can be found at the [publications page](http://namtuanly.github.io/publications/) or [my Google Scholar]({{site.author.googlescholar}}).
 
 ## Awards and Honors
-### Awards
+#### Awards
 * ICDAR2023 Competition on Visual Question Answering on Business Document Images, Runner-up, 2023.
 *	The 16th International Conference on Frontiers in Handwriting Recognition, Aug 2018, Nominees for best student paper award.
 *	Tokyo University of Agriculture and Technology, President's Award for Students, Apr 2018.
 *	The Special Interest Group of Computers and the Humanities (Information Processing Society of Japan), “Recognizing anomalously deformed Kana by Deep Convolutional Recurrent Network”, PRMU CH Award, 2018.
 *	The Special Interest Group of Pattern Recognition and Media Understanding (The Institute of Electronics, Information and Communication Engineers, Japan), The 21st PRMU Algorithm Contest, Best Algorithm Award, 2017.
 *	The 4th International Workshop on Historical Document Imaging and Processing (HIP2017), The IAPR Best Paper Award, 2017.
-### Scholarship
+
+#### Scholarship
 * JIRITSU, Apr 2016 ~ Mar 2017.
 * Hirose International Scholarship Foundation, Apr 2017 ~ Sep 2021.
-### Travel grants
+
+#### Travel grants
 * ROIS-DS Center for Open Data in the Humanities (CODH), Sydney, Australia, Sep. 2019.
 * ROIS-DS Center for Open Data in the Humanities (CODH), Hakodate, Hokkaido, Jan. 2018.
 
