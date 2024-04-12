@@ -15,18 +15,18 @@ I'm an assistant professor of Computer Science at [Tokyo University of Agricultu
 Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition, Mathematical Expression Recognition.
 
 ## Education
-* Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct'18 ~ Sep'21<br>
+* Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct., 2018 ~ Sep., 2021<br>
 
-* M.Sc, Tokyo University of Agriculture and Technology, Japan, Oct'16 ~ Sep'18<br>
+* M.Sc, Tokyo University of Agriculture and Technology, Japan, Oct., 2016 ~ Sep., 2018<br>
 
-* BSc, Hanoi University of Science and Technology, Vietnam, Aug'13<br>
+* BSc, Hanoi University of Science and Technology, Vietnam, Aug., 2013<br>
 
 ## Experience
-* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr'23 ~ Present<br>
+* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr., 2023 ~ Present<br>
 
-* Postdoctoral Researcher, National Institute of Informatics, Japan, Now'21 ~ Mar'23<br>
+* Postdoctoral Researcher, National Institute of Informatics, Japan, Now., 2021 ~ Mar., 2023<br>
 
-* Visiting Researcher, Concordia University, Canada, Oct'19 ~ Nov'19<be>
+* Visiting Researcher, Concordia University, Canada, Oct., 2019 ~ Nov., 2019<be>
 
 ## Grants
 * Apr., 2024 ~ Mar., 2027: JSPS KAKENHI Grant number 24K20789, Grant-in-Aid for Early-Career Scientists (**Principal Investigator**). [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K20789/) <br>
