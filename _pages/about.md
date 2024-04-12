@@ -31,7 +31,7 @@ Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document 
 ## Grants
 * Apr. 2024 ~ Mar. 2027: JSPS KAKENHI Grant number 24K20789, Grant-in-Aid for Early-Career Scientists (**Principal Investigator**). [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K20789/) <br>
 
-* Jul. 2023 - Mar. 2024: National Institute of Informatics, ROIS NII Open Collaborative Research 2023 (**Principal Investigator**). <br>
+* Jul. 2023 ~ Mar. 2024: National Institute of Informatics, ROIS NII Open Collaborative Research 2023 (**Principal Investigator**). <br>
 
 ## Selected Publications
 1. **Nam-Tuan Ly**, Atsuhiro Takasu, "An End-to-End Local Attention Based Model for Table Recognition", To appear in Proceedings of the 17th IAPR International Conference on Document Analysis and Recognition - ICDAR2023 (CORE rank A), California, USA, 2023.
