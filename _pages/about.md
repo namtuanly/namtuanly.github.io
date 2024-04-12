@@ -15,23 +15,23 @@ I'm an assistant professor of Computer Science at [Tokyo University of Agricultu
 Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition, Mathematical Expression Recognition.
 
 ## Education
-* Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct., 2018 ~ Sep., 2021<br>
+* Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct. 2018 ~ Sep. 2021. <br>
 
-* M.Sc, Tokyo University of Agriculture and Technology, Japan, Oct., 2016 ~ Sep., 2018<br>
+* M.Sc, Tokyo University of Agriculture and Technology, Japan, Oct. 2016 ~ Sep. 2018. <br>
 
-* BSc, Hanoi University of Science and Technology, Vietnam, Aug., 2013<br>
+* BSc, Hanoi University of Science and Technology, Vietnam, Aug. 2013. <br>
 
 ## Experience
-* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr., 2023 ~ Present<br>
+* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr. 2023 ~ Present. <br>
 
-* Postdoctoral Researcher, National Institute of Informatics, Japan, Now., 2021 ~ Mar., 2023<br>
+* Postdoctoral Researcher, National Institute of Informatics, Japan, Now. 2021 ~ Mar. 2023. <br>
 
-* Visiting Researcher, Concordia University, Canada, Oct., 2019 ~ Nov., 2019<be>
+* Visiting Researcher, Concordia University, Canada, Oct. 2019 ~ Nov. 2019. <be>
 
 ## Grants
-* Apr., 2024 ~ Mar., 2027: JSPS KAKENHI Grant number 24K20789, Grant-in-Aid for Early-Career Scientists (**Principal Investigator**). [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K20789/) <br>
+* Apr. 2024 ~ Mar. 2027: JSPS KAKENHI Grant number 24K20789, Grant-in-Aid for Early-Career Scientists (**Principal Investigator**). [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K20789/) <br>
 
-* Jul., 2023 - Mar., 2024: National Institute of Informatics, ROIS NII Open Collaborative Research 2023 (**Principal Investigator**). <br>
+* Jul. 2023 - Mar. 2024: National Institute of Informatics, ROIS NII Open Collaborative Research 2023 (**Principal Investigator**). <br>
 
 ## Selected Publications
 1. **Nam-Tuan Ly**, Atsuhiro Takasu, "An End-to-End Local Attention Based Model for Table Recognition", To appear in Proceedings of the 17th IAPR International Conference on Document Analysis and Recognition - ICDAR2023 (CORE rank A), California, USA, 2023.
@@ -62,19 +62,20 @@ My full publications can be found at the [publications page](http://namtuanly.gi
 
 ## Academic Services
 + Program Committee Member:
-  - The 17th International Conference on Document Analysis and Recognition (ICDAR2023)
-  - The 4th workshop on Intelligent Cross-Data Analysis and Retrieval, ACM ICMR 2023
-  - Special Session on Deep Learning and Applications for Industry 4.0, ICCCI 2020
+  - The International Conference on Document Analysis and Recognition (ICDAR), Mar. 2023 - Present.
+  - The 4th workshop on Intelligent Cross-Data Analysis and Retrieval, ACM ICMR 2023.
+  - Special Session on Deep Learning and Applications for Industry 4.0, ICCCI 2020.
 + Reviewer:
-  - Expert Systems with Applications (Journal)
-  - Pattern Recognition (Journal)
-  - International Journal on Document Analysis and Recognition (IJDAR)
+  - Expert Systems with Applications (Journal).
+  - Pattern Recognition (Journal).
+  - ACM Computing Surveys (Journal).
+  - International Journal on Document Analysis and Recognition (IJDAR).
 + Sub-reviewer:
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence (Journal)
-  - Pattern Recognition Letter(Journal)
-  - The International Joint Conference on Artificial Intelligence
-  - The International Conference on Document Analysis and Recognition
-  - The International Conference on Frontiers of Handwriting Recognition
-  - The International Workshop on Historical Document Imaging and Processing
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (Journal).
+  - Pattern Recognition Letter(Journal).
+  - The International Joint Conference on Artificial Intelligence.
+  - The International Conference on Document Analysis and Recognition.
+  - The International Conference on Frontiers of Handwriting Recognition.
+  - The International Workshop on Historical Document Imaging and Processing.
 
 My completed resume can be found at the [CV page](http://namtuanly.github.io/cv/).
