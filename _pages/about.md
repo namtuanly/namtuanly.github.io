@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ## About me
-I'm an assistant professor of Computer Science at [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/) (Japan). Previously, I was a postdoc at [National Institute of Informatics](https://www.nii.ac.jp/en/) (Japan) and a visiting scholar at [Centre for Pattern Recognition and Machine Intelligence](https://www.concordia.ca/research/cenparmi.html), Concordia University (Canada). I obtained my Ph.D. from the Department of Computer and Information Sciences, Tokyo University of Agriculture and Technology, in Sep. 2021, under the supervision of Prof. Masaki Nakagawa. My research mainly focuses on the topic of Document and Pattern Recognition, including: Document Layout Analysis, Table Recognition, Mathematical Expression Recognition and Text Recognition.
+I'm an associate professor at [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html) (Japan). Previously, I was an assistant professor [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/) (Japan), a postdoc at [National Institute of Informatics](https://www.nii.ac.jp/en/) (Japan), and a visiting scholar at [Centre for Pattern Recognition and Machine Intelligence](https://www.concordia.ca/research/cenparmi.html), Concordia University (Canada). I obtained my Ph.D. from the Department of Computer and Information Sciences, Tokyo University of Agriculture and Technology, in Sep. 2021, under the supervision of Prof. Masaki Nakagawa. My research mainly focuses on the topic of Document and Pattern Recognition, including: Document Layout Analysis, Table Recognition, Mathematical Expression Recognition, and Text Recognition.
 
 ## Research Interests 
-Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition, Mathematical Expression Recognition.
+Machine Learning, Pattern Recognition, Computer Vision, Deep Learning, Document Analysis and Recognition, Table Detection and Recognition, Text Detection and Recognition, Mathematical Expression Recognition.
 
 ## Education
 * Ph.D. Candidate, Tokyo University of Agriculture and Technology, Japan, Oct. 2018 ~ Sep. 2021. <br>
@@ -22,7 +22,11 @@ Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document 
 * BSc, Hanoi University of Science and Technology, Vietnam, Aug. 2013. <br>
 
 ## Experience
-* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr. 2023 ~ Present. <br>
+* Associate Professor, Tokyo Metropolitan University, Japan, Apr. 2026 ~ Present. <br>
+
+* Visiting Associate Professor, Tokyo University of Agriculture and Technology, Japan, Apr. 2026 ~ Present. <br>
+
+* Assistant Professor, Tokyo University of Agriculture and Technology, Japan, Apr. 2023 ~ Mar. 2026. <br>
 
 * Postdoctoral Researcher, National Institute of Informatics, Japan, Now. 2021 ~ Mar. 2023. <br>
 
@@ -30,6 +34,8 @@ Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Document 
 
 ## Grants
 * Apr. 2024 ~ Mar. 2027: JSPS KAKENHI Grant number 24K20789, Grant-in-Aid for Early-Career Scientists (**Principal Investigator**). [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K20789/) <br>
+
+* Jul. 2024 ~ Mar. 2025: National Institute of Informatics, ROIS NII Open Collaborative Research 2024 (**Principal Investigator**). <br>
 
 * Jul. 2023 ~ Mar. 2024: National Institute of Informatics, ROIS NII Open Collaborative Research 2023 (**Principal Investigator**). <br>
 
