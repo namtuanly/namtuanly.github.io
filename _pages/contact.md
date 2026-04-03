@@ -7,7 +7,7 @@ author_profile: true
 Contact information is below, including email and various web services. 
 
 * Email:          {{site.author.email}}
-* Work Email:     namly@go.tuat.ac.jp
+* Work Email:     namly@tmu.ac.jp
 * LinkedIn:       [Nam Tuan Ly](https://www.linkedin.com/in/{{site.author.linkedin}})
 * ResearchGate:   [Nam Tuan Ly]({{site.author.researchgate}}) 
 * Research Map:    [Nam Tuan Ly]({{site.author.researchmap}})
