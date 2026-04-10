@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Nam Tuan Ly's academic website"
+title: "Welcome to Nam Tuan LY's academic website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
