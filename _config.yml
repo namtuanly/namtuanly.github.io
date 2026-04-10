@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nam Tuan Ly"
+title                    : "Nam Tuan LY"
 title_separator          : "-"
-name                     : &name "Nam Tuan Ly"
+name                     : &name "Nam Tuan LY"
 description              : &description "Home Page"
 url                      : https://namtuanly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
